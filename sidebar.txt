@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bea:home|Door43 (bea)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bea|d43-bea repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bea/archive/master.zip|d43-bea.zip]]
+
+**Recent Changes**
+{{changes>ns = bea}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bea|Ethnologue data]]
+
